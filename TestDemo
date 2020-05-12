@@ -1,0 +1,15 @@
+public class TestArrays {
+
+	public static void main(String[] args) {
+		ArraysDemo d = new ArraysDemo();
+		d.getData();
+		
+		d.getData2();
+		
+		d.fibSequenceThreeVariables(100);
+		System.out.println();
+		d.fibSequenceTwoVariables(100);
+	}
+//Fibonacci sequence. Uses the number swap algorithm
+	
+}
